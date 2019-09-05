@@ -1,0 +1,14 @@
+RAM
+    -series of boxes
+    -each box contains information
+    -each box has an adress
+Arrays
+    -ordered sequence of data. 
+    -contiguous memory. box in sequence. 
+    -results in much of the characteristics it has.
+Memory address
+    -Where the location of the box is.
+Memory module
+    -JS does not give you direct access to the underlying memory in your system.
+    -can mimic direct access that lower level programming languages have.
+
