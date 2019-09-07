@@ -39,6 +39,11 @@ function MergeArr(arr1,arr2){
     }
     return startingArr
 }
+
+/**
+ * Linear time complexity 
+ */
 arr1 = [1, 3, 6, 8, 11]
 arr2  = [2, 3, 5, 8, 9, 10]
 console.log(MergeArr(arr1,arr2))
+
